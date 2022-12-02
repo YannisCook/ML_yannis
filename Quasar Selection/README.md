@@ -1,1 +1,1 @@
-## quasar selection
+## quasar classification and regression for finding the photometric redshift
